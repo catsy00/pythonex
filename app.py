@@ -12,7 +12,7 @@ def main():
 def hello():
     return 'I am good, how about you?'
 
-@app.route('egg')
+@app.route('/egg')
 def egg():
     return "hot!!!!!!"
 
