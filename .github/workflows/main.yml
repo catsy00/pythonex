@@ -4,8 +4,8 @@ name: CI
 on: [push]
 
 env:
-  PROJECT: pipelines-tutorial
-  APP_NAME: myapp
+  PROJECT: myproject
+  APP_NAME: pythonex
 
 jobs:
   build:
