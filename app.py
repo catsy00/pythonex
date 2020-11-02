@@ -14,7 +14,7 @@ def hello():
 
 @app.route('/egg')
 def egg():
-    return "hot!!!!!!"
+    return "hot????"
 
 @app.route('/healthz')
 def healthz():
